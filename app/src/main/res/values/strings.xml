@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">婚姻建議</string>
+    <string name="gender">性別</string>
+    <string-array name="gender_list">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string name="spn_gender_list_prompt">請選擇性別</string>
+    <string name="gender_hint">(輸入性別)</string>
+    <string name="age">年齡</string>
+    <string name="btn_do">確定</string>
+    <string name="result">建議：</string>
+    <string name="age_hint">(輸入年齡)</string>
+
+    <string name="sug_not_hurry">還不急。</string>
+    <string name="sug_get_married">趕快結婚！</string>
+    <string name="sug_find_couple">開始找對象</string>
+
+</resources>
