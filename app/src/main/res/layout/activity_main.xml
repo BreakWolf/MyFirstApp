@@ -38,15 +38,11 @@
         app:layout_constraintLeft_toLeftOf="parent"
         tools:layout_editor_absoluteY="104dp" />
 
-    <EditText
-        android:id="@+id/edtAge"
+    <NumberPicker
+        android:id="@+id/numAge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:ems="10"
-        android:hint="@string/age_hint"
-        android:inputType="number"
-        app:layout_constraintLeft_toLeftOf="parent"
-        tools:layout_editor_absoluteY="125dp" />
+        />
 
     <Button
         android:id="@+id/btnDoSug"
